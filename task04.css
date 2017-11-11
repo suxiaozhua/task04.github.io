@@ -6,25 +6,22 @@
 body{
 	font-size: 62.5%;
 	line-height: 1.5em;
-}
-
-#main{
-	background: #DCDCDC;
-	height: 40em;
+	background-color: #EFF0F4;
+	font-family: Microsoft YaHei;
 }
 
 header{
-	background: #1E90FF;
+	background: #5FC0CD;
 	height: 3em;
 	color: #FFFFFF;
-	font-size: 2em; 
+	font-size: 1.5em; 
 }
 
 #register{
     width: 3em;
     height: 1em;
     float: left;
-    background-color: #1E90FF;
+    background-color: #5FC0CD;
     padding: 1em;
 }
 
@@ -32,7 +29,7 @@ header{
     width: 5em;
     height: 1em;
     float: right;
-    background-color: #1E90FF;
+    background-color: #5FC0CD;
     text-align: right;
     padding: 1em;
 }
@@ -43,7 +40,7 @@ header{
 	width: 4em;
 	margin-left: -2em; 
     height: 1em;
-    background-color: #1E90FF;
+    background-color: #5FC0CD;
     word-break: break-word;
     text-align:center;
     padding: 1em;
@@ -78,25 +75,25 @@ input{
 
 .phoneimg{
 	position: absolute;
-	top: 5em;
+	top: 4em;
 }
 
 .lockimg{
 	position: absolute;
-	top: 10em;
+	top: 9em;
 }
 
 .login {
 	position: absolute;
 	top: 14em;
-	height: 5em;
+	height: 4.5em;
 	width: 100%;
 }
 
 .login input{
-	margin-top: 1em;
-	background-color: #1E90FF;
-	font-size: 2em;
+	margin-top: 0.5em;
+	background-color: #5FC0CD;
+	font-size: 1.5em;
 	font-weight: bold;
 	padding-left: 0;
 	color: #FFFFFF;
@@ -104,7 +101,7 @@ input{
 
 .footer {
 	position: absolute;
-	top: 23em;
+	top: 20em;
 	right: 1em;
 }
 
